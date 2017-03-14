@@ -1,0 +1,20 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Weibo: http://weibo.com/subjectangelen
+    GitHub: https://github.com/angelen10
+	
+favicon: https://ww3.sinaimg.cn/large/006tNc79gy1fdl76ea7rwj30fs0fs3yq.jpg
+logo: https://ww3.sinaimg.cn/large/006tNc79gy1fdl76ea7rwj30fs0fs3yq.jpg
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+ga: 
+
+# Copyright Infomation
+startyear: 2016
